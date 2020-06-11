@@ -1,0 +1,11 @@
+{
+  "name": "okepon",
+  "version": "1.0.0",
+  "description": "okepon acdr agem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dakar",
+  "license": "ISC"
+}
